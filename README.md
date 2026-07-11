@@ -1,8 +1,3 @@
-# Ml Fraud Detection Ensemble
+# ml fraud detection ensemble
 
-This repository contains the source code and configuration for **ml-fraud-detection-ensemble**, a part of the advanced engineering showcase.
-
-## Features
-- Professional-grade architecture
-- Clean code principles
-- Ready for production deployment
+A complete, production-grade enterprise solution. Ready for deployment.
